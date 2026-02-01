@@ -28,9 +28,12 @@ class ModInfo(CommonModInfo):
 
     @property
     def _version(self) -> str:
-        return '0.0.1'
+        return '0.0.2'
 
 
 r"""
+v0.0.2
+    Folder Cleanup
+    Renamed '_19_/o19_ask_to_see_natural_outfit.package' to '_19_/ask_to_see_natural_outfit.package' - delete the old file when updating from v0.0.1
 v0.0.1
 """
