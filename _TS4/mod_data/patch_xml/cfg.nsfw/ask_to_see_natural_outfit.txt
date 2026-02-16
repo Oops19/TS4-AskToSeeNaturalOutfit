@@ -1,5 +1,6 @@
 {
-    'o19:add_mixers_to_trait': {
+    # nsfw version
+    'o19:ATSNO_add_mixers_to_trait': {
         'filter': {
             'loading_tags': {'I', },
             'instance': {'trait', },
@@ -12,7 +13,7 @@
             },
         },
     },
-    'o19:add_mixers_to_situation_goal': {
+    'o19:ATSNO_add_mixers_to_situation_goal': {
         'filter': {
             'loading_tags': {'I', },
             'instance': {'situation_goal', },
@@ -25,7 +26,7 @@
             },
         },
     },
-    'o19:add_mixers_to_non_touching': {
+    'o19:ATSNO_add_mixers_to_non_touching': {
         'filter': {
             'loading_tags': {'I', },
             'instance': {'snippet', },
